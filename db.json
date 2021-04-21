@@ -1,20 +1,57 @@
 {
-	"title":"Carbohydrates",
-	"discription":"Firstly, carbohydrates are the primary source of energy for the body and therefore play the most substantial role in fueling exercise. There are two different types of carbohydrates – complex and simple. The names give an indication of the time taken to digest; complex carbs take a longer time period to digest than simple carbs. Complex carbohydrates provide the body with prolonged slow-release of energy and have a great nutritional benefit. While simple carbohydrates provide the body with a short-term, fast releasing energy, they contain little nutritional value. For this reason, you should look to primarily consume complex carbohydrates. Some foods to consider adding to your diet include whole-grains, oats, beans, nuts, fruits, and vegetables.",
-	
-	"title":"Protein",
-	"discription":"The majority of gym-goers will be well aware that consuming protein is important. The reason why protein is so important is that, it plays a key role in recovery and repair. During exercise, the body is exposed to strains and stresses which cause damage to occur to the muscles at a microscopic level. In order for the damage to be repaired, protein is needed. Without it, recovery periods will be extended and chronic fatigue may become a factor. Protein is found most highly in animal produce such as lean meats, eggs & dairy. It can also be found in smaller quantities in foods such as seeds, nuts, legumes, beans, and soy.",
-	
-	"title":"Fats",
-	"discription":"Fats are often incorrectly seen as the primary reason for fat gain. However, fats are not responsible for this and actually play a key role in the absorption and transport of nutrients. In addition, they can have a positive impact on heart health and hormone production. While fats can have a positive impact on health, there are several types of fat – some of which are of greater benefit than others. While saturated fats are not as harmful as once believed, focus primarily on unsaturated fats. Unsaturated fat foods include avocados, seeds, nuts, peanut butter, fish (salmon, tuna, mackerel), oils (olive, peanut, sesame), and soy products (tofu, soy milk).",
-
-	"title":"Pre-Workout Foods",
-	"discription":"The focus with all pre-workout meals or snacks should be carbohydrates to provide the body with plenty of energy to last the full session. If energy levels are sub-optimal, then performance will suffer which will have a consequent impact on our rate of adaptation. White bread, jam, granola, cereal, rice cakes, sports drinks, and fruit are all viable options for a pre-workout, energy-boosting snack. While the focus should predominantly be on carbohydrates, it is also important to consume some protein prior to stepping into the gym. To support muscle recovery and growth, protein levels should be maintained at a high level throughout each day.",
-
-	"title":"Post-Workout Foods",
-	"discription":"The purpose of post-workout nutrition is two-fold – to promote muscle recovery and replenish energy. Therefore, the focus should once again be on consuming good quality protein and carb foods. As reflected on, the stress of training cause micro tears to occur to the muscles that must be repaired. Consuming protein will cause a process known as muscle protein synthesis (MPS) to occur which will begin the repairing process and prevent muscle breakdown. If possible, it is recommended to consume protein and carbs together as this will have the most pronounced impact on recovery by enhancing protein and glycogen (energy) synthesis. Often a ratio of 3:1 carb to protein is prescribed for optimizing recovery.",
-
-	"title":"Ideal 7-day gym diet",
-	"discription":"While calories and macronutrients are important, the ideal gym diet will be one that positively influences health. This is a diet that is rich in vitamins and minerals where all three macronutrients are consumed and nutrient-sparse foods are restricted. Below you can find a 7-day gym diet guide:",
-
+  "colors": [
+    {
+      "color": "black",
+      "category": "hue",
+      "type": "primary",
+      "code": {
+        "rgba": [255,255,255,1],
+        "hex": "#000"
+      }
+    },
+    {
+      "color": "white",
+      "category": "value",
+      "code": {
+        "rgba": [0,0,0,1],
+        "hex": "#FFF"
+      }
+    },
+    {
+      "color": "red",
+      "category": "hue",
+      "type": "primary",
+      "code": {
+        "rgba": [255,0,0,1],
+        "hex": "#FF0"
+      }
+    },
+    {
+      "color": "blue",
+      "category": "hue",
+      "type": "primary",
+      "code": {
+        "rgba": [0,0,255,1],
+        "hex": "#00F"
+      }
+    },
+    {
+      "color": "yellow",
+      "category": "hue",
+      "type": "primary",
+      "code": {
+        "rgba": [255,255,0,1],
+        "hex": "#FF0"
+      }
+    },
+    {
+      "color": "green",
+      "category": "hue",
+      "type": "secondary",
+      "code": {
+        "rgba": [0,255,0,1],
+        "hex": "#0F0"
+      }
+    },
+  ]
 }
